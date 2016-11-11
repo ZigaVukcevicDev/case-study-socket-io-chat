@@ -1,5 +1,5 @@
 #### Use case
-# Websockets chat
+# Socket.io chat
 
 ## -- This is work in progress --
 
