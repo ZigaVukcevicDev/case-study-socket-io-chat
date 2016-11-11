@@ -1,5 +1,7 @@
 # Use case: websockets chat
 
+-- This is work in progress --
+
 ## Description
 
 // TODO
