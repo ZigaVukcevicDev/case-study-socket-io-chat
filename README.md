@@ -1,6 +1,7 @@
-# Use case: websockets chat
+#### Use case
+# Websockets chat
 
--- This is work in progress --
+## -- This is work in progress --
 
 ## Description
 
