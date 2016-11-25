@@ -30,7 +30,6 @@ Open browser at `http://localhost:8080`
 ### Resources
 
 - https://github.com/NejcS/VideoChat
-- http://eprints.fri.uni-lj.si/3240/1/63110327-NEJC_%C5%A0TEB
--Izdelava_spletne_aplikacije_za_video_klepet.pdf
+- http://eprints.fri.uni-lj.si/3240/1/63110327-NEJC_%C5%A0TEBE-Izdelava_spletne_aplikacije_za_video_klepet.pdf
 - http://socket.io/get-started/chat/
 - https://github.com/rauchg/chat-example
