@@ -1,10 +1,11 @@
-var express = require('express');
-var app = express();
+import express from 'express';
 
-app.get('/', function (req, res) {
+const app = express();
+
+app.get('/', (req, res) => {
     res.send('Hello World!')
 });
 
-app.listen(3000, function () {
-    console.log('Server running at http://127.0.0.1:3000/')
+app.listen(3000, () => {
+    console.log('Server running at http://127.0.0.1:3000')
 });
