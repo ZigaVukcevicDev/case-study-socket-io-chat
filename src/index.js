@@ -1,10 +1,10 @@
-import { createServer } from 'http';
+var express = require('express');
+var app = express();
 
-createServer((req, res) => {
+app.get('/', function (req, res) {
+    res.send('Hello World!')
+});
 
-    res.writeHead(200, { 'Content-Type': 'text/html' });
-    res.end('<input type="text" value="testing"/>');
-
-}).listen(3000, '127.0.0.1');
-
-console.log('Server running at http://127.0.0.1:3000/');
+app.listen(3000, function () {
+    console.log('Server running at http://127.0.0.1:3000/')
+});
