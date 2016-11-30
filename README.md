@@ -19,13 +19,13 @@
 
 ## Install
 
-`npm install`
+`yarn`
 
 ## Run
 
-`npm run serve`
+`npm run dev`
 
-Open browser at `http://localhost:8080`
+Open browser at `http://127.0.0.1:3000`
 
 ### Resources
 
