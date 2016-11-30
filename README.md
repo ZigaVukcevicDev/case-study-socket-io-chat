@@ -33,3 +33,4 @@ Open browser at `http://127.0.0.1:3000`
 - http://eprints.fri.uni-lj.si/3240/1/63110327-NEJC_%C5%A0TEBE-Izdelava_spletne_aplikacije_za_video_klepet.pdf
 - http://socket.io/get-started/chat/
 - https://github.com/rauchg/chat-example
+- https://egghead.io/lessons/node-js-using-es6-and-beyond-with-node-js
