@@ -1,4 +1,4 @@
-#### Use case
+#### Case study
 # Socket.io chat
 
 ## -- This is work in progress --
@@ -13,7 +13,7 @@
 
 // TODO
 
-### Try out this use case.
+### Try out this case study.
 
 // TODO
 
